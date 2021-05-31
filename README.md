@@ -1,0 +1,2 @@
+This is a repository where i will save all my software practices and assignment from Alx Software Engineering training for the year 2021.
+You are welcome to see my work and progress, because this is a public repo.
